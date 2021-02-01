@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the the blog",
+      "body": " hello",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "Welcome to the the blog 2",
+      "body": " hello 2",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "Welcome to the the blog 3",
+      "body": " hello 3",
+      "likes": 10
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "test",
+      "answerA": "Vue",
+      "answerB": "react"
+    }
+  ]
+}
